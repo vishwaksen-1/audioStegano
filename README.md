@@ -1,6 +1,6 @@
 # Spectrology-Fork
 
-Spectrology-Fork is a fork of [spectrology](https://github.com/solusipse/spectrology) that adds parallel processing for faster execution and support to build a linux-compiled executable of the spectrology.py script.
+Spectrology-Fork is based on [spectrology](https://github.com/solusipse/spectrology) that adds parallel processing for faster execution and support to build a linux-compiled executable of the spectrology.py script.
 
 The executable is standalone and does not require any additional dependencies or even Python.
 
@@ -78,4 +78,3 @@ For more informations on this techique, see this article: https://solusipse.net/
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
